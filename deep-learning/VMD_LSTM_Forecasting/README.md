@@ -3,7 +3,7 @@
 This project presents a hybrid approach that combines **Variational Mode Decomposition (VMD)** with **Long Short-Term Memory (LSTM)** neural networks to improve the accuracy of Bitcoin price prediction. The raw price series is decomposed into multiple intrinsic mode functions (IMFs), which are then individually modeled using LSTM and aggregated for final forecasting.
 
  **Research Preprint:**  
-[View Full Paper on ResaerchGate](https://www.researchgate.net/publication/10.13140/RG.2.2.14871.69280)
+[View Full Paper on ResearchGate](http://dx.doi.org/10.13140/RG.2.2.14871.69280)
 
 **Highlights**
 - VMD decomposition of time series into IMFs
